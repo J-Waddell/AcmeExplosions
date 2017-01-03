@@ -16,7 +16,7 @@ var promise1 = new Promise(function(resolve, reject) {
         var list = JSON.parse(request1.responseText).categories;
         resolve(list)
     })
-    request1.open("GET", categories.json)
+    request1.open("GET", "categories.json")
     request1.send()
 })
 console.log("type of promise1", typeof promise1)
@@ -65,8 +65,8 @@ var promise3 = new Promise(function(resolve, reject){
 })
 
 function findExplosive(){
-  var categoriesList = categories[returnRandom(0, 5)].name
-  var typesList = types[returnRandom(0, 5)].name
-  var productsList = products[returnRandom(0, 6)].name
+  var categoriesList = categories[returnRandom(0, 1)].name
+  var typesList = types[returnRandom(0)].name
+  var productsList = products[returnRandom(0)].name
   console.log(`Categories consist of ${categoriesList} with these types ${typesList}, and the product ${productsList}`)
 }
