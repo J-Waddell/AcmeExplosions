@@ -1,16 +1,16 @@
 body {
-    background: url(http://bestanimations.com/Holidays/Fireworks/fireworks/fireworks-animated-gif-23.gif)no-repeat center center fixed;
-    -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background:#B2EBF2;
 }
 
 .clearfix:after {
     display:block;
     clear:both;
 }
-
+/*title styling*/
+#funTitle {
+    color: #546E7A;
+    background: #80DEEA;
+}
 /*----- Menu Outline -----*/
 .menu-wrap {
     width:100%;
@@ -31,7 +31,9 @@ body {
 
 .menu a {
     transition:all linear 0.35s;
-    color:white;
+    color:#B0BEC5;
+    text-shadow: 1px 1px 1px black,
+               3px 3px 5px black;
 }
 
 .menu li:hover > a, .menu .current-item > a {
@@ -50,7 +52,7 @@ body {
     float:left;
     display:inline-block;
     position:relative;
-    font-size:19px;
+    font-size:1.2em;
 }
 
 .menu > ul > li > a {
