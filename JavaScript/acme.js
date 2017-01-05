@@ -66,7 +66,7 @@ var promise3 = new Promise(function(resolve, reject){
 
 function findExplosive(){
   var categoriesList = categories[loadExplosives(0, 1)].name
-  // var typesList = types[loadExplosives(0)].descriptions
+  var typesList = types[loadExplosives(0)].descriptions
   console.log("types", types)
   // var productsList = products[loadExplosives(0)].products
   // console.log(`Categories consist of ${categoriesList} with these types ${typesList}, and the product ${productsList}`)
