@@ -5,6 +5,36 @@
             "category": 0,
             "name": "personal",
             "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "non-personal",
+            "description": "For those pesky pests keeping you up at night"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "gifts",
+            "description": "When you really wanna wow your friends with an explosive surprise"
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "fragment grenade",
+            "description": "An explosive used to give the receiving party a little piece of your mind"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "napalm",
+            "description": "Not necessarily an explosive but it's great for burning any bridges"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "C4",
+            "description": "Used for boom."
         }
     ]
 }
