@@ -2,9 +2,39 @@
     "types": [
         {
             "id": 0,
-            "category": 0,
-            "name": "personal",
+            "category id": 0,
+            "name": "beginner",
             "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category id": 0,
+            "name": "novice",
+            "description": "Fireworks used for more experienced entertainment"
+        },
+        {
+            "id": 2,
+            "category id": 0,
+            "name": "expert",
+            "description": "Fireworks used by professionals in a professional manor... professionally "
+        },
+        {
+            "id": 3,
+            "category id": 1,
+            "name": "minor",
+            "description": "Explosives used for minor demolition purposes"
+        },
+        {
+            "id": 4,
+            "category id": 1,
+            "name": "moderate",
+            "description": "Explosives used for moderate demolition of moderate structures"
+        },
+        {
+            "id": 5,
+            "category id": 1,
+            "name": "large",
+            "description": "Explosives used for demolition of large structures (aka no mas)"
         }
     ]
 }

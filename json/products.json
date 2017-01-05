@@ -1,10 +1,112 @@
 {
-    "products": [{
-        "fairy_sparklers": {
+    "products": [
+        {
             "id": 0,
-            "type": 0,
+            "type id": 0,
             "name": "Fairy Sparklers",
             "description": "Multi-colored sparklers that are safe for any age."
+        },
+        {
+            "id": 1,
+            "type id": 0,
+            "name": "Parachuters",
+            "description": "When the small explosion goes off and parachute is launched into the air, usually being chased down and caught."
+        },
+        {
+            "id": 2,
+            "type id": 0,
+            "name": "Fountains",
+            "description": "A small land based firework that spouts out colored sparkles."
+        },
+        {
+            "id": 3,
+            "type id": 1,
+            "name": "Water Dynamite",
+            "description": "Hand tossed in our fresh gun powder. Packs a small punch and is water resistant."
+        },
+        {
+            "id": 4,
+            "type id": 1,
+            "name": "Bottle Rockets",
+            "description": "If you aren't making a molotov then give that bottle another purpose and shoot miniature rockets out of it, it's a blast."
+        },
+        {
+            "id": 5,
+            "type id": 1,
+            "name": "M-80",
+            "description": "The most powerful hand held firework although you might not want to hold on to it for too long."
+        },
+        {
+            "id": 6,
+            "type id": 2,
+            "name": "Peony Shell",
+            "description": "THE O.G of professional firework entertainment"
+        },
+        {
+            "id": 7,
+            "type id": 2,
+            "name": "Willow Shell",
+            "description": "Creates a willow tree type affect when it explodes"
+        },
+        {
+            "id": 8,
+            "type id": 2,
+            "name": "Crossette Shell",
+            "description": "When it explodes it creates a crisscross type of pattern"
+        },
+        {
+            "id": 9,
+            "type id": 3,
+            "name": "Fragment Grenade",
+            "description": "An explosive used to give the receiving party a little piece of your mind."
+        },
+        {
+            "id": 10,
+            "type id": 3,
+            "name": "Molotov",
+            "description": "One of the best ways to quit your drinking problem."
+        },
+        {
+            "id": 11,
+            "type id": 3,
+            "name": "Stick of TNT",
+            "description": "Used to clear paths in mountains but that requires a lot more than one stick."
+        },
+        {
+            "id": 12,
+            "type id": 4,
+            "name": "Bundle of TNT",
+            "description": "Used to clear paths in mountains."
+        },
+        {
+            "id": 13,
+            "type id": 4,
+            "name": "Blue Shell",
+            "description": "Immediately goes to 1st place and blows them up."
+        },
+        {
+            "id": 14,
+            "type id": 4,
+            "name": "Rocket Launcher",
+            "description": "Rocket propelled grenade for your thoughts."
+        },
+        {
+            "id": 15,
+            "type id": 5,
+            "name": "Napalm",
+            "description": "Not necessarily an explosive but it's great for burning any bridges."
+        },
+        {
+            "id": 16,
+            "type id": 5,
+            "name": "Bomb-omb",
+            "description": "A highly explosive bomb used by Mario."
+        },
+        {
+            "id": 17,
+            "type id": 5,
+            "name": "C4",
+            "description": "Used for big boom."
         }
-    }]
+    ]
 }
